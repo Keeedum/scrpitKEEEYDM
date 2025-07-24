@@ -11,7 +11,7 @@ local camera = workspace.CurrentCamera
 
 -- สร้าง ScreenGui
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "MadCityCheatGUI"
+screenGui.Name = "KEEEDUM HUB"
 screenGui.ResetOnSpawn = false
 screenGui.Parent = player:WaitForChild("PlayerGui")
 
