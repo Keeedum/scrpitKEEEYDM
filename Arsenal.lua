@@ -14,7 +14,7 @@ local autoKillDistance = 100 -- ระยะยิงอัตโนมัติ
 
 -- สร้าง GUI
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "AutoKillGui"
+ScreenGui.Name = "KEEEDUM HUB"
 ScreenGui.Parent = game.CoreGui
 
 local Frame = Instance.new("Frame")
